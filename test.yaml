@@ -1,0 +1,10 @@
+- idea_id: 1
+  name: idea 1
+  options:
+  - loglevel: debug
+  - logfile: file1.log
+- idea_id: 2
+  name: idea 2
+  options:
+  - loglevel: warn
+  - logfile: file2.log

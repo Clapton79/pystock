@@ -1,0 +1,11 @@
+- defaults:
+  - folder: data
+- profiles:
+    - profile1:
+      - folder: data
+      - log_rotation_days: 10
+      - days_per_file: 10
+    - profile2:
+      - folder: special_data
+      - log_rotation_days: 10
+      - days_per_file: 10

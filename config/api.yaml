@@ -1,0 +1,17 @@
+- name: alphavantage type 1
+  url: https://www.alphavantage.co/
+  query_tag: query?
+  apikey: demo
+  functions:
+  - function
+  - symbol
+  - apikey
+- name: alphavantage type 2
+  url: https://www.alphavantage.co/
+  query_tag: query?
+  apikey: demo
+  functions:
+  - function
+  - symbol
+  - interval
+  - apikey

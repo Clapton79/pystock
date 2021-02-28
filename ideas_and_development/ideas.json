@@ -1,0 +1,39 @@
+[
+  {
+    "id":1,
+    "source":"TipRanks email",
+    "url":"https://www.tipranks.com/news/article/analysts-say-these-2-stocks-are-their-top-picks-for-the-rest-of-2020/?utm_source=tipranks.com&utm_medium=newsletters_story&utm_campaign=story_mon_03.08.2020",
+    "details":[
+        {"ticker":"TFC",
+        "name":"Truist Financial",
+        "start_date":"2020-08-02",
+        "price_target":44,
+        "target_date":"2020-12-31"},
+        {"ticker":"DG",
+        "name":"Dollar General Corporation",
+        "start_date":"2020-08-02",
+        "price_target":209,
+        "target_date":"2020-12-31"}
+    ]
+  },
+  {
+    "id":2,
+    "source":"TipRanks email",
+    "url":"https://www.tipranks.com/news/article/a-tale-of-3-airline-stocks-2-to-buy-and-1-to-hold/?utm_source=tipranks.com&utm_medium=newsletters_story&utm_campaign=story_wed_29.07.2020",
+    "details":[
+        {"ticker":"LUV",
+        "name":"Southwest Airlines",
+        "start_date":"2020-07-28",
+        "price_target":42.08},
+        {"ticker":"ALK",
+        "name":"Alaska Air Group",
+        "start_date":"2020-08-02",
+        "price_target":45.72
+      },
+      {"ticker":"AAL",
+      "name":"American Airlines",
+      "start_date":"2020-07-28",
+      "price_target":13.25}
+    ]
+  }
+]

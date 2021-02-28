@@ -1,0 +1,2 @@
+- loglevel: DEBUG
+- logfile: log/main.log

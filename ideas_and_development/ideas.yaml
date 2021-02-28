@@ -1,0 +1,30 @@
+- details:
+  - name: Truist Financial
+    price_target: 44
+    start_date: '2020-08-02'
+    target_date: '2020-12-31'
+    ticker: TFC
+  - name: Dollar General Corporation
+    price_target: 209
+    start_date: '2020-08-02'
+    target_date: '2020-12-31'
+    ticker: DG
+  id: 1
+  source: TipRanks email
+  url: https://www.tipranks.com/news/article/analysts-say-these-2-stocks-are-their-top-picks-for-the-rest-of-2020/?utm_source=tipranks.com&utm_medium=newsletters_story&utm_campaign=story_mon_03.08.2020
+- details:
+  - name: Southwest Airlines
+    price_target: 42.08
+    start_date: '2020-07-28'
+    ticker: LUV
+  - name: Alaska Air Group
+    price_target: 45.72
+    start_date: '2020-08-02'
+    ticker: ALK
+  - name: American Airlines
+    price_target: 13.25
+    start_date: '2020-07-28'
+    ticker: AAL
+  id: 2
+  source: TipRanks email
+  url: https://www.tipranks.com/news/article/a-tale-of-3-airline-stocks-2-to-buy-and-1-to-hold/?utm_source=tipranks.com&utm_medium=newsletters_story&utm_campaign=story_wed_29.07.2020

@@ -1,0 +1,145 @@
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT,AAPL,AMZN,%20TSLA&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None
+DEBUG:root:Initializing Service 1
+DEBUG:root:Service 1 intialized.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=MSFT&apikey=DREASXN2231RALOE HTTP/1.1" 200 None

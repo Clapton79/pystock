@@ -1,0 +1,9 @@
+- name: Service 1
+  api: alphavantage type 1
+  data_content_meta_key: Time Series (Daily)
+  data_folder: data
+  max_threads: 2
+  functions:
+  - function: TIME_SERIES_DAILY
+  - symbol: MSFT
+  - apikey: DREASXN2231RALOE
